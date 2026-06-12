@@ -8,7 +8,7 @@ A comparative machine-learning study on predicting customer churn in the telecom
 📄 **Read the paper:** [Predictive_Analysis_for_Churn_Management.pdf](./Predictive_Analysis_for_Churn_Management.pdf)
 🔗 **Deployed app (related project):** [Customer-Churn-Prediction](https://github.com/Erikamediratta/Customer-Churn-Prediction)
 
-> ℹ️ Rename the PDF / notebook / CSV links below to match the actual filenames in your repo.
+
 
 ---
 
