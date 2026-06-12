@@ -5,7 +5,7 @@ A comparative machine-learning study on predicting customer churn in the telecom
 **Author:** Erika Mediratta
 **Status:** Independent research paper (unpublished, IEEE format)
 
-📄 **Read the paper:** [Predictive_Analysis_for_Churn_Management.pdf](https://github.com/Erikamediratta/Telecom-churn-prediction/blob/main/Erika_Mediratta_Churn_Paper.pdf)
+📄 **Read the paper:** [Predictive_Analysis_for_Churn_Management.pdf](https://drive.google.com/file/d/1fxOxw0a2oOpselBQ5eAeJPL8NQPXDvyq/view?usp=sharing)
 🔗 **Deployed app (related project):** [Customer-Churn-Prediction](https://github.com/Erikamediratta/Customer-Churn-Prediction)
 
 
